@@ -5,12 +5,12 @@
 
 for install module without `install.py`:
 
-``` bash
+``` terminal
 pip install python-instagram
 ```
 
 after install requirements:
-``` bash
+``` python
 python instagram_client_id.py
 ```
 
