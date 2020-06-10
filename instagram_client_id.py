@@ -11,7 +11,7 @@ try:
 	print 'Login sucessfully'
 except Exception as LoginError:
 	print 'Cannot login right now, check this error message and for solve go to https://github.com/razyar'
-	sys.close(0)
+	sys.exit(0)
 
 
 # i write some commands for you but you can use idle or read docks
